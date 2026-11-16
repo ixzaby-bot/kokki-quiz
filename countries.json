@@ -1,0 +1,1562 @@
+[
+  {
+    "code": "ad",
+    "officialName": "アンドラ公国",
+    "name": "あんどら",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/ad.svg"
+  },
+  {
+    "code": "ae",
+    "officialName": "アラブ首長国連邦",
+    "name": "あらぶしゅちょうこくれんぽう",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/ae.svg"
+  },
+  {
+    "code": "af",
+    "officialName": "アフガニスタン・イスラム共和国",
+    "name": "あふがにすたん",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/af.svg"
+  },
+  {
+    "code": "ag",
+    "officialName": "アンティグア・バーブーダ",
+    "name": "あんてぃぐあ・ばーぶーだ",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/ag.svg"
+  },
+  {
+    "code": "al",
+    "officialName": "アルバニア共和国",
+    "name": "あるばにあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/al.svg"
+  },
+  {
+    "code": "am",
+    "officialName": "アルメニア共和国",
+    "name": "あるめにあ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/am.svg"
+  },
+  {
+    "code": "ao",
+    "officialName": "アンゴラ共和国",
+    "name": "あんごら",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/ao.svg"
+  },
+  {
+    "code": "ar",
+    "officialName": "アルゼンチン共和国",
+    "name": "あるぜんちん",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/ar.svg"
+  },
+  {
+    "code": "at",
+    "officialName": "オーストリア共和国",
+    "name": "おーすとりあ",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/at.svg"
+  },
+  {
+    "code": "au",
+    "officialName": "オーストラリア連邦",
+    "name": "おーすとらりあ",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flag": "assets/flags/au.svg"
+  },
+  {
+    "code": "az",
+    "officialName": "アゼルバイジャン共和国",
+    "name": "あぜるばいじゃん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/az.svg"
+  },
+  {
+    "code": "ba",
+    "officialName": "ボスニア・ヘルツェゴビナ",
+    "name": "ぼすにあ・へるつぇごびな",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/ba.svg"
+  },
+  {
+    "code": "bb",
+    "officialName": "バルバドス",
+    "name": "ばるばどす",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/bb.svg"
+  },
+  {
+    "code": "bd",
+    "officialName": "バングラデシュ人民共和国",
+    "name": "ばんぐらでしゅ",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/bd.svg"
+  },
+  {
+    "code": "be",
+    "officialName": "ベルギー王国",
+    "name": "べるぎー",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/be.svg"
+  },
+  {
+    "code": "bf",
+    "officialName": "ブルキナファソ",
+    "name": "ぶるきなふぁそ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/bf.svg"
+  },
+  {
+    "code": "bg",
+    "officialName": "ブルガリア共和国",
+    "name": "ぶるがりあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/bg.svg"
+  },
+  {
+    "code": "bh",
+    "officialName": "バーレーン王国",
+    "name": "ばーれーん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/bh.svg"
+  },
+  {
+    "code": "bi",
+    "officialName": "ブルンジ共和国",
+    "name": "ぶるんじ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/bi.svg"
+  },
+  {
+    "code": "bj",
+    "officialName": "ベナン共和国",
+    "name": "べなん",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/bj.svg"
+  },
+  {
+    "code": "bn",
+    "officialName": "ブルネイ・ダルサラーム国",
+    "name": "ぶるねい",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/bn.svg"
+  },
+  {
+    "code": "bo",
+    "officialName": "ボリビア多民族国",
+    "name": "ぼりびあ",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/bo.svg"
+  },
+  {
+    "code": "br",
+    "officialName": "ブラジル連邦共和国",
+    "name": "ぶらじる",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/br.svg"
+  },
+  {
+    "code": "bs",
+    "officialName": "バハマ国",
+    "name": "ばはま",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/bs.svg"
+  },
+  {
+    "code": "bt",
+    "officialName": "ブータン王国",
+    "name": "ぶーたん",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/bt.svg"
+  },
+  {
+    "code": "bw",
+    "officialName": "ボツワナ共和国",
+    "name": "ぼつわな",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "assets/flags/bw.svg"
+  },
+  {
+    "code": "by",
+    "officialName": "ベラルーシ共和国",
+    "name": "べらるーし",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "assets/flags/by.svg"
+  },
+  {
+    "code": "bz",
+    "officialName": "ベリーズ",
+    "name": "べりーず",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/bz.svg"
+  },
+  {
+    "code": "ca",
+    "officialName": "カナダ",
+    "name": "かなだ",
+    "region": "Americas",
+    "subregion": "North America",
+    "flag": "assets/flags/ca.svg"
+  },
+  {
+    "code": "cd",
+    "officialName": "コンゴ民主共和国",
+    "name": "こんごみんしゅきょうわこく",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/cd.svg"
+  },
+  {
+    "code": "cf",
+    "officialName": "中央アフリカ共和国",
+    "name": "ちゅうおうあふりか",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/cf.svg"
+  },
+  {
+    "code": "cg",
+    "officialName": "コンゴ共和国",
+    "name": "こんごきょうわこく",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/cg.svg"
+  },
+  {
+    "code": "ch",
+    "officialName": "スイス連邦",
+    "name": "すいす",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/ch.svg"
+  },
+  {
+    "code": "ci",
+    "officialName": "コートジボワール共和国",
+    "name": "こーとじぼわーる",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/ci.svg"
+  },
+  {
+    "code": "cl",
+    "officialName": "チリ共和国",
+    "name": "ちり",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/cl.svg"
+  },
+  {
+    "code": "cm",
+    "officialName": "カメルーン共和国",
+    "name": "かめるーん",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/cm.svg"
+  },
+  {
+    "code": "cn",
+    "officialName": "中華人民共和国",
+    "name": "ちゅうごく",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "assets/flags/cn.svg"
+  },
+  {
+    "code": "co",
+    "officialName": "コロンビア共和国",
+    "name": "ころんびあ",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/co.svg"
+  },
+  {
+    "code": "cr",
+    "officialName": "コスタリカ共和国",
+    "name": "こすたりか",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/cr.svg"
+  },
+  {
+    "code": "cu",
+    "officialName": "キューバ共和国",
+    "name": "きゅーば",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/cu.svg"
+  },
+  {
+    "code": "cv",
+    "officialName": "カーボベルデ共和国",
+    "name": "かーぼべるで",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/cv.svg"
+  },
+  {
+    "code": "cy",
+    "officialName": "キプロス共和国",
+    "name": "きぷろす",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/cy.svg"
+  },
+  {
+    "code": "cz",
+    "officialName": "チェコ共和国",
+    "name": "ちぇこ",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/cz.svg"
+  },
+  {
+    "code": "de",
+    "officialName": "ドイツ連邦共和国",
+    "name": "どいつ",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/de.svg"
+  },
+  {
+    "code": "dj",
+    "officialName": "ジブチ共和国",
+    "name": "じぶち",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/dj.svg"
+  },
+  {
+    "code": "dk",
+    "officialName": "デンマーク王国",
+    "name": "でんまーく",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/dk.svg"
+  },
+  {
+    "code": "dm",
+    "officialName": "ドミニカ国",
+    "name": "どみにかこく",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/dm.svg"
+  },
+  {
+    "code": "do",
+    "officialName": "ドミニカ共和国",
+    "name": "どみにかきょうわこく",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/do.svg"
+  },
+  {
+    "code": "dz",
+    "officialName": "アルジェリア人民民主共和国",
+    "name": "あるじぇりあ",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/dz.svg"
+  },
+  {
+    "code": "ec",
+    "officialName": "エクアドル共和国",
+    "name": "えくあどる",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/ec.svg"
+  },
+  {
+    "code": "ee",
+    "officialName": "エストニア共和国",
+    "name": "えすとにあ",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/ee.svg"
+  },
+  {
+    "code": "eg",
+    "officialName": "エジプト・アラブ共和国",
+    "name": "えじぷと",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/eg.svg"
+  },
+  {
+    "code": "er",
+    "officialName": "エリトリア国",
+    "name": "えりとりあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/er.svg"
+  },
+  {
+    "code": "es",
+    "officialName": "スペイン",
+    "name": "すぺいん",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/es.svg"
+  },
+  {
+    "code": "et",
+    "officialName": "エチオピア連邦民主共和国",
+    "name": "えちおぴあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/et.svg"
+  },
+  {
+    "code": "fi",
+    "officialName": "フィンランド共和国",
+    "name": "ふぃんらんど",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/fi.svg"
+  },
+  {
+    "code": "fj",
+    "officialName": "フィジー共和国",
+    "name": "ふぃじー",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flag": "assets/flags/fj.svg"
+  },
+  {
+    "code": "fm",
+    "officialName": "ミクロネシア連邦",
+    "name": "みくろねしあ",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flag": "assets/flags/fm.svg"
+  },
+  {
+    "code": "fr",
+    "officialName": "フランス共和国",
+    "name": "ふらんす",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/fr.svg"
+  },
+  {
+    "code": "ga",
+    "officialName": "ガボン共和国",
+    "name": "がぼん",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/ga.svg"
+  },
+  {
+    "code": "gb",
+    "officialName": "グレートブリテン及び北アイルランド連合王国",
+    "name": "いぎりす",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/gb.svg"
+  },
+  {
+    "code": "gd",
+    "officialName": "グレナダ",
+    "name": "ぐれなだ",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/gd.svg"
+  },
+  {
+    "code": "ge",
+    "officialName": "ジョージア",
+    "name": "じょーじあ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/ge.svg"
+  },
+  {
+    "code": "gh",
+    "officialName": "ガーナ共和国",
+    "name": "がーな",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/gh.svg"
+  },
+  {
+    "code": "gm",
+    "officialName": "ガンビア共和国",
+    "name": "がんびあ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/gm.svg"
+  },
+  {
+    "code": "gn",
+    "officialName": "ギニア共和国",
+    "name": "ぎにあ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/gn.svg"
+  },
+  {
+    "code": "gq",
+    "officialName": "赤道ギニア共和国",
+    "name": "せきどうぎにあ",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/gq.svg"
+  },
+  {
+    "code": "gr",
+    "officialName": "ギリシャ共和国",
+    "name": "ぎりしゃ",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/gr.svg"
+  },
+  {
+    "code": "gt",
+    "officialName": "グアテマラ共和国",
+    "name": "ぐあてまら",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/gt.svg"
+  },
+  {
+    "code": "gw",
+    "officialName": "ギニアビサウ共和国",
+    "name": "ぎにあびさう",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/gw.svg"
+  },
+  {
+    "code": "gy",
+    "officialName": "ガイアナ共和国",
+    "name": "がいあな",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/gy.svg"
+  },
+  {
+    "code": "hn",
+    "officialName": "ホンジュラス共和国",
+    "name": "ほんじゅらす",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/hn.svg"
+  },
+  {
+    "code": "hr",
+    "officialName": "クロアチア共和国",
+    "name": "くろあちあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/hr.svg"
+  },
+  {
+    "code": "ht",
+    "officialName": "ハイチ共和国",
+    "name": "はいち",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/ht.svg"
+  },
+  {
+    "code": "hu",
+    "officialName": "ハンガリー",
+    "name": "はんがりー",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/hu.svg"
+  },
+  {
+    "code": "id",
+    "officialName": "インドネシア共和国",
+    "name": "いんどねしあ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/id.svg"
+  },
+  {
+    "code": "ie",
+    "officialName": "アイルランド",
+    "name": "あいるらんど",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/ie.svg"
+  },
+  {
+    "code": "il",
+    "officialName": "イスラエル国",
+    "name": "いすらえる",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/il.svg"
+  },
+  {
+    "code": "in",
+    "officialName": "インド",
+    "name": "いんど",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/in.svg"
+  },
+  {
+    "code": "iq",
+    "officialName": "イラク共和国",
+    "name": "いらく",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/iq.svg"
+  },
+  {
+    "code": "ir",
+    "officialName": "イラン・イスラム共和国",
+    "name": "いらん",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/ir.svg"
+  },
+  {
+    "code": "is",
+    "officialName": "アイスランド",
+    "name": "あいすらんど",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/is.svg"
+  },
+  {
+    "code": "it",
+    "officialName": "イタリア共和国",
+    "name": "いたりあ",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/it.svg"
+  },
+  {
+    "code": "jm",
+    "officialName": "ジャマイカ",
+    "name": "じゃまいか",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/jm.svg"
+  },
+  {
+    "code": "jo",
+    "officialName": "ヨルダン・ハシミテ王国",
+    "name": "よるだん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/jo.svg"
+  },
+  {
+    "code": "jp",
+    "officialName": "日本国",
+    "name": "にほん",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "assets/flags/jp.svg"
+  },
+  {
+    "code": "ke",
+    "officialName": "ケニア共和国",
+    "name": "けにあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/ke.svg"
+  },
+  {
+    "code": "kg",
+    "officialName": "キルギス共和国",
+    "name": "きるぎす",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "assets/flags/kg.svg"
+  },
+  {
+    "code": "kh",
+    "officialName": "カンボジア王国",
+    "name": "かんぼじあ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/kh.svg"
+  },
+  {
+    "code": "ki",
+    "officialName": "キリバス共和国",
+    "name": "きりばす",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flag": "assets/flags/ki.svg"
+  },
+  {
+    "code": "km",
+    "officialName": "コモロ連合",
+    "name": "こもろ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/km.svg"
+  },
+  {
+    "code": "kn",
+    "officialName": "セントクリストファー・ネービス",
+    "name": "せんときっつ・ねーびす",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/kn.svg"
+  },
+  {
+    "code": "kp",
+    "officialName": "朝鮮民主主義人民共和国",
+    "name": "きたちょうせん",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "assets/flags/kp.svg"
+  },
+  {
+    "code": "kr",
+    "officialName": "大韓民国",
+    "name": "かんこく",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "assets/flags/kr.svg"
+  },
+  {
+    "code": "kw",
+    "officialName": "クウェート国",
+    "name": "くうぇーと",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/kw.svg"
+  },
+  {
+    "code": "kz",
+    "officialName": "カザフスタン共和国",
+    "name": "かざふすたん",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "assets/flags/kz.svg"
+  },
+  {
+    "code": "la",
+    "officialName": "ラオス人民民主共和国",
+    "name": "らおす",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/la.svg"
+  },
+  {
+    "code": "lb",
+    "officialName": "レバノン共和国",
+    "name": "ればのん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/lb.svg"
+  },
+  {
+    "code": "lc",
+    "officialName": "セントルシア",
+    "name": "せんとるしあ",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/lc.svg"
+  },
+  {
+    "code": "li",
+    "officialName": "リヒテンシュタイン公国",
+    "name": "りひてんしゅたいん",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/li.svg"
+  },
+  {
+    "code": "lk",
+    "officialName": "スリランカ民主社会主義共和国",
+    "name": "すりらんか",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/lk.svg"
+  },
+  {
+    "code": "lr",
+    "officialName": "リベリア共和国",
+    "name": "りべりあ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/lr.svg"
+  },
+  {
+    "code": "ls",
+    "officialName": "レソト王国",
+    "name": "れそと",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "assets/flags/ls.svg"
+  },
+  {
+    "code": "lt",
+    "officialName": "リトアニア共和国",
+    "name": "りとあにあ",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/lt.svg"
+  },
+  {
+    "code": "lu",
+    "officialName": "ルクセンブルク大公国",
+    "name": "るくせんぶるく",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/lu.svg"
+  },
+  {
+    "code": "lv",
+    "officialName": "ラトビア共和国",
+    "name": "らとびあ",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/lv.svg"
+  },
+  {
+    "code": "ly",
+    "officialName": "リビア",
+    "name": "りびあ",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/ly.svg"
+  },
+  {
+    "code": "ma",
+    "officialName": "モロッコ王国",
+    "name": "もろっこ",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/ma.svg"
+  },
+  {
+    "code": "mc",
+    "officialName": "モナコ公国",
+    "name": "もなこ",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/mc.svg"
+  },
+  {
+    "code": "md",
+    "officialName": "モルドバ共和国",
+    "name": "もるどば",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "assets/flags/md.svg"
+  },
+  {
+    "code": "me",
+    "officialName": "モンテネグロ",
+    "name": "もんてねぐろ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/me.svg"
+  },
+  {
+    "code": "mg",
+    "officialName": "マダガスカル共和国",
+    "name": "まだがすかる",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/mg.svg"
+  },
+  {
+    "code": "mh",
+    "officialName": "マーシャル諸島共和国",
+    "name": "まーしゃるしょとう",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flag": "assets/flags/mh.svg"
+  },
+  {
+    "code": "mk",
+    "officialName": "北マケドニア共和国",
+    "name": "きたまけどにあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/mk.svg"
+  },
+  {
+    "code": "ml",
+    "officialName": "マリ共和国",
+    "name": "まり",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/ml.svg"
+  },
+  {
+    "code": "mm",
+    "officialName": "ミャンマー連邦共和国",
+    "name": "みゃんまー",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/mm.svg"
+  },
+  {
+    "code": "mn",
+    "officialName": "モンゴル国",
+    "name": "もんごる",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flag": "assets/flags/mn.svg"
+  },
+  {
+    "code": "mr",
+    "officialName": "モーリタニア・イスラム共和国",
+    "name": "もーりたにあ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/mr.svg"
+  },
+  {
+    "code": "mt",
+    "officialName": "マルタ共和国",
+    "name": "まるた",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/mt.svg"
+  },
+  {
+    "code": "mu",
+    "officialName": "モーリシャス共和国",
+    "name": "もーりしゃす",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/mu.svg"
+  },
+  {
+    "code": "mv",
+    "officialName": "モルディブ共和国",
+    "name": "もるでぃぶ",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/mv.svg"
+  },
+  {
+    "code": "mw",
+    "officialName": "マラウイ共和国",
+    "name": "まらうい",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/mw.svg"
+  },
+  {
+    "code": "mx",
+    "officialName": "メキシコ合衆国",
+    "name": "めきしこ",
+    "region": "Americas",
+    "subregion": "North America",
+    "flag": "assets/flags/mx.svg"
+  },
+  {
+    "code": "my",
+    "officialName": "マレーシア",
+    "name": "まれーしあ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/my.svg"
+  },
+  {
+    "code": "mz",
+    "officialName": "モザンビーク共和国",
+    "name": "もざんびーく",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/mz.svg"
+  },
+  {
+    "code": "na",
+    "officialName": "ナミビア共和国",
+    "name": "なみびあ",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "assets/flags/na.svg"
+  },
+  {
+    "code": "ne",
+    "officialName": "ニジェール共和国",
+    "name": "にじぇーる",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/ne.svg"
+  },
+  {
+    "code": "ng",
+    "officialName": "ナイジェリア連邦共和国",
+    "name": "ないじぇりあ",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/ng.svg"
+  },
+  {
+    "code": "ni",
+    "officialName": "ニカラグア共和国",
+    "name": "にからぐあ",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/ni.svg"
+  },
+  {
+    "code": "nl",
+    "officialName": "オランダ王国",
+    "name": "おらんだ",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flag": "assets/flags/nl.svg"
+  },
+  {
+    "code": "no",
+    "officialName": "ノルウェー王国",
+    "name": "のるうぇー",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/no.svg"
+  },
+  {
+    "code": "np",
+    "officialName": "ネパール連邦民主共和国",
+    "name": "ねぱーる",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/np.svg"
+  },
+  {
+    "code": "nr",
+    "officialName": "ナウル共和国",
+    "name": "なうる",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flag": "assets/flags/nr.svg"
+  },
+  {
+    "code": "nz",
+    "officialName": "ニュージーランド",
+    "name": "にゅーじーらんど",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flag": "assets/flags/nz.svg"
+  },
+  {
+    "code": "om",
+    "officialName": "オマーン国",
+    "name": "おまーん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/om.svg"
+  },
+  {
+    "code": "pa",
+    "officialName": "パナマ共和国",
+    "name": "ぱなま",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/pa.svg"
+  },
+  {
+    "code": "pe",
+    "officialName": "ペルー共和国",
+    "name": "ぺるー",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/pe.svg"
+  },
+  {
+    "code": "pg",
+    "officialName": "パプアニューギニア独立国",
+    "name": "ぱぷあにゅーぎにあ",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flag": "assets/flags/pg.svg"
+  },
+  {
+    "code": "ph",
+    "officialName": "フィリピン共和国",
+    "name": "ふぃりぴん",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/ph.svg"
+  },
+  {
+    "code": "pk",
+    "officialName": "パキスタン・イスラム共和国",
+    "name": "ぱきすたん",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flag": "assets/flags/pk.svg"
+  },
+  {
+    "code": "pl",
+    "officialName": "ポーランド共和国",
+    "name": "ぽーらんど",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/pl.svg"
+  },
+  {
+    "code": "ps",
+    "officialName": "パレスチナ国",
+    "name": "ぱれすちな",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/ps.svg"
+  },
+  {
+    "code": "pt",
+    "officialName": "ポルトガル共和国",
+    "name": "ぽるとがる",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/pt.svg"
+  },
+  {
+    "code": "pw",
+    "officialName": "パラオ共和国",
+    "name": "ぱらお",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flag": "assets/flags/pw.svg"
+  },
+  {
+    "code": "py",
+    "officialName": "パラグアイ共和国",
+    "name": "ぱらぐあい",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/py.svg"
+  },
+  {
+    "code": "qa",
+    "officialName": "カタール国",
+    "name": "かたーる",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/qa.svg"
+  },
+  {
+    "code": "ro",
+    "officialName": "ルーマニア",
+    "name": "るーまにあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/ro.svg"
+  },
+  {
+    "code": "rs",
+    "officialName": "セルビア共和国",
+    "name": "せるびあ",
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flag": "assets/flags/rs.svg"
+  },
+  {
+    "code": "ru",
+    "officialName": "ロシア連邦",
+    "name": "ろしあ",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "assets/flags/ru.svg"
+  },
+  {
+    "code": "rw",
+    "officialName": "ルワンダ共和国",
+    "name": "るわんだ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/rw.svg"
+  },
+  {
+    "code": "sa",
+    "officialName": "サウジアラビア王国",
+    "name": "さうじあらびあ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/sa.svg"
+  },
+  {
+    "code": "sb",
+    "officialName": "ソロモン諸島",
+    "name": "そろもんしょとう",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flag": "assets/flags/sb.svg"
+  },
+  {
+    "code": "sc",
+    "officialName": "セーシェル共和国",
+    "name": "せーしぇる",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/sc.svg"
+  },
+  {
+    "code": "sd",
+    "officialName": "スーダン共和国",
+    "name": "すーだん",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/sd.svg"
+  },
+  {
+    "code": "se",
+    "officialName": "スウェーデン王国",
+    "name": "すうぇーでん",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flag": "assets/flags/se.svg"
+  },
+  {
+    "code": "sg",
+    "officialName": "シンガポール共和国",
+    "name": "しんがぽーる",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/sg.svg"
+  },
+  {
+    "code": "si",
+    "officialName": "スロベニア共和国",
+    "name": "すろべにあ",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/si.svg"
+  },
+  {
+    "code": "sk",
+    "officialName": "スロバキア共和国",
+    "name": "すろばきあ",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flag": "assets/flags/sk.svg"
+  },
+  {
+    "code": "sl",
+    "officialName": "シエラレオネ共和国",
+    "name": "しえられおね",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/sl.svg"
+  },
+  {
+    "code": "sm",
+    "officialName": "サンマリノ共和国",
+    "name": "さんまりの",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/sm.svg"
+  },
+  {
+    "code": "sn",
+    "officialName": "セネガル共和国",
+    "name": "せねがる",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/sn.svg"
+  },
+  {
+    "code": "so",
+    "officialName": "ソマリア連邦共和国",
+    "name": "そまりあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/so.svg"
+  },
+  {
+    "code": "sr",
+    "officialName": "スリナム共和国",
+    "name": "すりなむ",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/sr.svg"
+  },
+  {
+    "code": "ss",
+    "officialName": "南スーダン共和国",
+    "name": "みなみすーだん",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/ss.svg"
+  },
+  {
+    "code": "st",
+    "officialName": "サントメ・プリンシペ民主共和国",
+    "name": "さんとめ・ぷりんしぺ",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/st.svg"
+  },
+  {
+    "code": "sv",
+    "officialName": "エルサルバドル共和国",
+    "name": "えるさるばどる",
+    "region": "Americas",
+    "subregion": "Central America",
+    "flag": "assets/flags/sv.svg"
+  },
+  {
+    "code": "sy",
+    "officialName": "シリア・アラブ共和国",
+    "name": "しりあ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/sy.svg"
+  },
+  {
+    "code": "sz",
+    "officialName": "エスワティニ王国",
+    "name": "えすわてぃに",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "assets/flags/sz.svg"
+  },
+  {
+    "code": "td",
+    "officialName": "チャド共和国",
+    "name": "ちゃど",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flag": "assets/flags/td.svg"
+  },
+  {
+    "code": "tg",
+    "officialName": "トーゴ共和国",
+    "name": "とーご",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flag": "assets/flags/tg.svg"
+  },
+  {
+    "code": "th",
+    "officialName": "タイ王国",
+    "name": "たい",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/th.svg"
+  },
+  {
+    "code": "tj",
+    "officialName": "タジキスタン共和国",
+    "name": "たじきすたん",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "assets/flags/tj.svg"
+  },
+  {
+    "code": "tl",
+    "officialName": "東ティモール民主共和国",
+    "name": "ひがしてぃもーる",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/tl.svg"
+  },
+  {
+    "code": "tm",
+    "officialName": "トルクメニスタン",
+    "name": "とるくめにすたん",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "assets/flags/tm.svg"
+  },
+  {
+    "code": "tn",
+    "officialName": "チュニジア共和国",
+    "name": "ちゅにじあ",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flag": "assets/flags/tn.svg"
+  },
+  {
+    "code": "to",
+    "officialName": "トンガ王国",
+    "name": "とんが",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flag": "assets/flags/to.svg"
+  },
+  {
+    "code": "tr",
+    "officialName": "トルコ共和国",
+    "name": "とるこ",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/tr.svg"
+  },
+  {
+    "code": "tt",
+    "officialName": "トリニダード・トバゴ共和国",
+    "name": "とりにだーど・とばご",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/tt.svg"
+  },
+  {
+    "code": "tv",
+    "officialName": "ツバル",
+    "name": "つばる",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flag": "assets/flags/tv.svg"
+  },
+  {
+    "code": "tz",
+    "officialName": "タンザニア連合共和国",
+    "name": "たんざにあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/tz.svg"
+  },
+  {
+    "code": "ua",
+    "officialName": "ウクライナ",
+    "name": "うくらいな",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flag": "assets/flags/ua.svg"
+  },
+  {
+    "code": "ug",
+    "officialName": "ウガンダ共和国",
+    "name": "うがんだ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/ug.svg"
+  },
+  {
+    "code": "us",
+    "officialName": "アメリカ合衆国",
+    "name": "あめりか",
+    "region": "Americas",
+    "subregion": "North America",
+    "flag": "assets/flags/us.svg"
+  },
+  {
+    "code": "uy",
+    "officialName": "ウルグアイ東方共和国",
+    "name": "うるぐあい",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/uy.svg"
+  },
+  {
+    "code": "uz",
+    "officialName": "ウズベキスタン共和国",
+    "name": "うずべきすたん",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flag": "assets/flags/uz.svg"
+  },
+  {
+    "code": "va",
+    "officialName": "バチカン市国",
+    "name": "ばちかん",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flag": "assets/flags/va.svg"
+  },
+  {
+    "code": "vc",
+    "officialName": "セントビンセント・グレナディーン諸島",
+    "name": "せんとびんせんと・ぐれなでぃーん",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flag": "assets/flags/vc.svg"
+  },
+  {
+    "code": "ve",
+    "officialName": "ベネズエラ・ボリバル共和国",
+    "name": "べねずえら",
+    "region": "Americas",
+    "subregion": "South America",
+    "flag": "assets/flags/ve.svg"
+  },
+  {
+    "code": "vn",
+    "officialName": "ベトナム社会主義共和国",
+    "name": "べとなむ",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flag": "assets/flags/vn.svg"
+  },
+  {
+    "code": "vu",
+    "officialName": "バヌアツ共和国",
+    "name": "ばぬあつ",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flag": "assets/flags/vu.svg"
+  },
+  {
+    "code": "ws",
+    "officialName": "サモア独立国",
+    "name": "さもあ",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flag": "assets/flags/ws.svg"
+  },
+  {
+    "code": "ye",
+    "officialName": "イエメン共和国",
+    "name": "いえめん",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flag": "assets/flags/ye.svg"
+  },
+  {
+    "code": "za",
+    "officialName": "南アフリカ共和国",
+    "name": "みなみあふりか",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flag": "assets/flags/za.svg"
+  },
+  {
+    "code": "zm",
+    "officialName": "ザンビア共和国",
+    "name": "ざんびあ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/zm.svg"
+  },
+  {
+    "code": "zw",
+    "officialName": "ジンバブエ共和国",
+    "name": "じんばぶえ",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flag": "assets/flags/zw.svg"
+  }
+]
